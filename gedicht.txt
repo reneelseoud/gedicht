@@ -5,4 +5,5 @@ Grün
 Blau
 Gelb
 Magenta
+Türkis
 Sind alles tolle Farben.
