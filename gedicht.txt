@@ -6,4 +6,5 @@ Blau
 Gelb
 Magenta
 Türkis
+Violett
 Sind alles tolle Farben.
